@@ -7,7 +7,7 @@
 
 <br>
 
-🛠️ Tecnologias:
+**`🛠️ Tecnologias:`**
 
 <div>
   <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +23,7 @@
 
 <br>
 
-💻 Sobre a NexusDev
+**`💻 Sobre a NexusDev:`**
 
 ```javascript
 import Empresa from "NexusDev";
@@ -45,17 +45,3 @@ class Servicos extends Empresa {
   objetivo = "Ajudar empresas a crescer no digital";
 }
 ```
-
-<br>
-
-<table align="center">
-  <tr>
-    <td>
-      <br />
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=NexusDev-cdm&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
