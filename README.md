@@ -40,8 +40,9 @@ class Servicos extends Empresa {
   principais = [
     "Criação de Sites",
     "Landing Pages",
-    "Sites para Empresas",
-    "Otimização de Performance"
+    "Sites One Pages",
+    "Otimização de Performance",
+    "Sites Institucionais"
   ];
 
   objetivo = "Ajudar empresas a crescer no digital";
