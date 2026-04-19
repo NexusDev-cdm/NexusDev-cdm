@@ -7,20 +7,17 @@
 
 <br>
 
-**`🛠️ Tecnologias:`**
+**`🛠️ Stacks:`**
 
-<div>
-  <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="React.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="Next.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" >
-  <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="TailwindCSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Node.js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img alt="Express.js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
-  <img alt="GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<div text-align = "center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="js logo"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="rj" logo"/>
+  <img src="https://skillicons.dev/icons?i=next" height="60" alt="js logo"/>
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="js logo"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="js logo"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="js logo"/>
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="js logo"/>
 </div>
 
 <br>
