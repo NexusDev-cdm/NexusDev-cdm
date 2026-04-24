@@ -1,9 +1,9 @@
-# 🚀 NexusDev
+# 🚀 CodeskTech
 
 
 **`Desenvolvimento de Sites e Soluções Digitais`**
 
-<p> A <strong>NexusDev</strong> é uma iniciativa focada na criação de <strong>sites modernos, rápidos e profissionais</strong> para empresas e empreendedores que desejam fortalecer sua presença no digital.Nosso objetivo é ajudar negócios a crescer através da tecnologia, oferecendo soluções web que combinam design, performance e estratégia digital. </p> 
+<p> A <strong>CodeskTech</strong> é uma iniciativa focada na criação de <strong>sites modernos, rápidos e profissionais</strong> para empresas e empreendedores que desejam fortalecer sua presença no digital.Nosso objetivo é ajudar negócios a crescer através da tecnologia, oferecendo soluções web que combinam design, performance e estratégia digital. </p> 
 
 <br>
 
@@ -25,20 +25,17 @@
 **`💻 Sobre a NexusDev:`**
 
 ```javascript
-import Empresa from "NexusDev";
+import Empresa from "CodeskTech";
 
 class SobreEmpresa extends Empresa {
-  nome = "NexusDev";
+  nome = "CodeskTech";
   area = "Desenvolvimento Web";
   foco = "Criação de Sites Profissionais";
 }
 
 class Servicos extends Empresa {
   principais = [
-    "Criação de Sites",
     "Landing Pages",
-    "Sites One Pages",
-    "Otimização de Performance",
     "Sites Institucionais"
   ];
 
